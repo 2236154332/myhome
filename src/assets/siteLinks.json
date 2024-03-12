@@ -20,7 +20,7 @@
     "link": "https://limestart.cn/"
   },
    {
-    "icon": "Robot",
+    "icon": "LaptopCode",
     "name": "云端AI",
     "link": "https://ai.typ123.cn"
   },
@@ -34,9 +34,5 @@
     "name": "今日新闻",
     "link": "https://news.cctv.com/china/"
   },
-  {
-    "icon": "LaptopCode",
-    "name": "站点监测",
-    "link": "https://status.imsyy.top/"
-  }
+ 
 ]
