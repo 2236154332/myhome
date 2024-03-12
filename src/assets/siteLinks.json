@@ -19,6 +19,11 @@
     "name": "起始页",
     "link": "https://limestart.cn/"
   },
+   {
+    "icon": "RobotFilled",
+    "name": "云端AI",
+    "link": "https://ai.typ123.cn"
+  },
   {
     "icon": "Book",
     "name": "网址集",
